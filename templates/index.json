@@ -138,8 +138,9 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/viktos-overbeach-retro-style-modern-combatant-shoe-multicam-black-tactical-gear-australia-5_1200x_b2a7d957-4584-4bb9-88be-04447a31f8c6.webp",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
