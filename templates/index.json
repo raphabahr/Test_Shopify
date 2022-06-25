@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Camisetas PICA",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "text": {
@@ -295,8 +295,9 @@
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
+        "full_width2": true,
         "padding_top": 40,
-        "padding_bottom": 40
+        "padding_bottom": 60
       }
     }
   },
